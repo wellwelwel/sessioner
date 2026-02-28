@@ -37,9 +37,7 @@ sessioner
 
 - The CLI detects your current project and opens a main menu.
 
----
-
-## ⚙️ Options
+### Options
 
 | Flag               | Short | Description          | Default              |
 | ------------------ | ----- | -------------------- | -------------------- |
@@ -48,7 +46,7 @@ sessioner
 
 ---
 
-## 🔍 How It Works
+## How It Works
 
 1. Scans `{base}/{project}` for `.jsonl` session files
 2. Shows a **main menu** (Sessions, Search, Stats, Clean)
@@ -173,6 +171,12 @@ sessioner
 - <kbd>0</kbd>: exit
 - <kbd>ESC</kbd>: go back one level at a time until exit
 - <kbd>Ctrl+C</kbd>: exit
+
+---
+
+## Security Policy
+
+Please check the [**SECURITY.md**](https://github.com/wellwelwel/sessioner/blob/main/SECURITY.md).
 
 ---
 
