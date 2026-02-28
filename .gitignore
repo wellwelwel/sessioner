@@ -1,0 +1,4 @@
+lib/
+.cache/
+!.claude/
+.claude/settings.json
