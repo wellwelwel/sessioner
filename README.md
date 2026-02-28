@@ -75,21 +75,18 @@ sessioner
 
 ### ◌ Search _(across all sessions)_
 
-- Text input for a search query
-- Streams all sessions in parallel for case-insensitive text matching
+- Search for a text input _(case-insensitive)_
 - Results grouped by session title, with match count and date
-- Matched text highlighted in bold
+- Highlight matched text
 - Paginated 10 matches at a time
 - Clicking a match opens the session's action menu
-- Back from the action menu returns to search results
-- Shows "No results" when nothing matches
 
 ---
 
 ### ◌ Fork
 
 - Creates an independent copy of the entire session
-- All UUIDs (messages and subagents) are remapped to new random values
+- All UUIDs (messages and subagents) are remapped to forked session
 - Prompts for a custom title after forking
 - Switches context to the new forked session
 
@@ -114,9 +111,8 @@ sessioner
   - **System/IDE tags**: `<system-reminder>`, `<ide_selection>`, `<ide_opened_file>`
   - **Old custom titles**: duplicate `custom-title` entries (keeps the most recent)
   - **Short messages**: text under 50 characters (unselected by default)
-- Checkbox selection for what to remove (all pre-selected by default, except short messages)
+- Provides checkbox selection for what to remove
 - Repairs the parent-child UUID chain after pruning
-- Shows "Nothing to prune" when the session is already clean
 
 ---
 
