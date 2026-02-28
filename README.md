@@ -62,15 +62,15 @@ sessioner
 4. Displays a **conversation preview** for the selected session (up to 10 messages)
 5. Opens an **action menu** to operate on it
 
+---
+
+## 🛠️ Actions
+
 > [!NOTE]
 >
 > Actions that modify session files (fork, merge, prune, trim, rename, delete, clean) require restarting the Claude Code extension to take effect.
 >
 > - In **VS Code**, you can use the **Reload Window** command (<kbd>Ctrl+Shift+P</kbd> / <kbd>Cmd+Shift+P</kbd> → `Developer: Reload Window`).
-
----
-
-## 🛠️ Actions
 
 ### Open
 
