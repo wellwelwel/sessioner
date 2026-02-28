@@ -176,22 +176,15 @@ sessioner
 
 ---
 
-## 💻 Development
+## Contributing
 
-```bash
-git clone https://github.com/wellwelwel/sessioner
-cd sessioner
-npm ci
-npm start
-```
+See the [**Contributing Guide**](https://github.com/wellwelwel/sessioner/blob/main/CONTRIBUTING.md) and please follow our [**Code of Conduct**](https://github.com/wellwelwel/sessioner/blob/main/CODE_OF_CONDUCT.md) 🚀
 
-### Scripts
+---
 
-- `npm start` _(development)_
-- `npm run typecheck`
-- `npm run lint`
-- `npm run lint:fix`
-- `npm run build`
+## Acknowledgements
+
+- [![Contributors](https://img.shields.io/github/contributors/wellwelwel/sessioner?label=Contributors)](https://github.com/wellwelwel/sessioner/graphs/contributors)
 
 ---
 
