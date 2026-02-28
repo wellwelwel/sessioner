@@ -1,6 +1,6 @@
 {
   "name": "sessioner",
-  "version": "0.1.6",
+  "version": "0.2.0",
   "description": "✨ An interactive CLI to navigate and manage Claude Code sessions from the terminal.",
   "type": "module",
   "license": "MIT",
