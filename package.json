@@ -28,7 +28,8 @@
     "build": "rm -rf lib && tsc",
     "lint": "prettier --check .",
     "lint:fix": "prettier --write .",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "update": "pu && npm i && npm update && (npm audit fix || true) && npm run lint:fix"
   },
   "dependencies": {
     "@clack/core": "^1.0.1",
@@ -36,7 +37,8 @@
   },
   "devDependencies": {
     "@ianvs/prettier-plugin-sort-imports": "^4.7.1",
-    "@types/node": "^25.3.1",
+    "@types/node": "^25.3.2",
+    "packages-update": "^2.0.0",
     "prettier": "^3.8.1",
     "tsx": "^4.21.0",
     "typescript": "^5.9.3"
