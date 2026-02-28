@@ -1,12 +1,8 @@
-<div align="center">
-
 # Sessioner
 
 ✨ An interactive **CLI** to navigate and manage [**Claude Code**](https://docs.anthropic.com/en/docs/claude-code) sessions from the terminal.
 
 [![NPM Version](https://img.shields.io/npm/v/sessioner.svg?label=&color=70a1ff&logo=npm&logoColor=white)](https://www.npmjs.com/package/sessioner)
-
-</div>
 
 ---
 
