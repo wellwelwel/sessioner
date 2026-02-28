@@ -1,6 +1,6 @@
 {
   "name": "sessioner",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "✨ An interactive CLI to search, fork, merge, prune, trim, and manage Claude Code sessions from the terminal.",
   "type": "module",
   "license": "MIT",
