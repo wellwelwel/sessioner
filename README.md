@@ -188,10 +188,10 @@ See the [**Contributing Guide**](https://github.com/wellwelwel/sessioner/blob/ma
 
 ## Acknowledgements
 
-- [![Contributors](https://img.shields.io/github/contributors/wellwelwel/sessioner?label=Contributors)](https://github.com/wellwelwel/sessioner/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/wellwelwel/sessioner?label=Contributors)](https://github.com/wellwelwel/sessioner/graphs/contributors)
 
 ---
 
-## ⚖️ License
+## License
 
 **Sessioner** is under the [**MIT License**](https://github.com/wellwelwel/sessioner/blob/main/LICENSE).
