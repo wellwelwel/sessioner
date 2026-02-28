@@ -14,7 +14,7 @@
 
 ## 💡 Why
 
-Claude Code supports native forking from specific points, but can loses context like thoughts, references, choices, and subagents. It also provides no built-in way to search, browse, merge, prune, or trim the `.jsonl` session files stored in `~/.claude/projects`.
+Claude Code supports native forking from specific points, but can loses context like thoughts, references, choices, and subagents. It also provides no built-in way to search, browse, merge, prune, or trim sessions.
 
 **Sessioner** gives you a keyboard-driven interface to manage those sessions directly, including a **full fork** that preserves subagents and all session data:
 
