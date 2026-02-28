@@ -24,12 +24,11 @@
     "lib"
   ],
   "scripts": {
-    "build": "rm -rf lib && tsc",
     "start": "tsx src/bin/index.ts",
+    "build": "rm -rf lib && tsc",
     "lint": "prettier --check .",
     "lint:fix": "prettier --write .",
-    "typecheck": "tsc --noEmit",
-    "patch": "npm version patch --no-git-tag-version"
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "@clack/core": "^1.0.1",
